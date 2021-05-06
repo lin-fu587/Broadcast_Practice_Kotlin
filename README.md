@@ -1,0 +1,2 @@
+# Broadcast_Practice_Kotlin
+Broadcast_receiver廣播接收器元件的練習。
